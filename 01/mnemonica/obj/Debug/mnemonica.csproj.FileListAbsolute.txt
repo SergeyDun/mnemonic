@@ -1,0 +1,14 @@
+C:\01\mnemonica\obj\Debug\MainWindow.g.cs
+C:\01\mnemonica\obj\Debug\App.g.cs
+C:\01\mnemonica\obj\Debug\mnemonica_MarkupCompile.cache
+C:\01\mnemonica\obj\Debug\mnemonica_MarkupCompile.lref
+C:\01\mnemonica\bin\Debug\mnemonica.exe.config
+C:\01\mnemonica\bin\Debug\mnemonica.exe
+C:\01\mnemonica\bin\Debug\mnemonica.pdb
+C:\01\mnemonica\obj\Debug\MainWindow.baml
+C:\01\mnemonica\obj\Debug\mnemonica.g.resources
+C:\01\mnemonica\obj\Debug\mnemonica.Properties.Resources.resources
+C:\01\mnemonica\obj\Debug\mnemonica.csproj.GenerateResource.cache
+C:\01\mnemonica\obj\Debug\mnemonica.exe
+C:\01\mnemonica\obj\Debug\mnemonica.pdb
+C:\01\mnemonica\obj\Debug\mnemonica_Content.g.cs
